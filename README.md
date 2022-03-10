@@ -1,2 +1,2 @@
-# Intro-to-CHC
+# Welcome-to-CHC
 Project overview
