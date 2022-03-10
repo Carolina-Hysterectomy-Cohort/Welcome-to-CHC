@@ -1,11 +1,11 @@
 # Welcome-to-CHC
-Project overview
-	-Objectives
-	-Methods
-	-Collaborators
-	-Funding
+**Project overview**<br/>
+	-Objectives<br/>
+	-Methods<br/>
+	-Collaborators<br/>
+	-Funding<br/>
 	
-Project Contents
-	-Datsets
-	-Data documentation
-	-REpositories of Research manuscripts 
+**Project Contents**<br/>
+	-Datsets<br/>
+	-Data documentation<br/>
+	-Repositories of Research manuscripts <br/>
