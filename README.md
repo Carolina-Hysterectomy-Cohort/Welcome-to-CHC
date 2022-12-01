@@ -17,20 +17,19 @@ We work with closely with many collaborators, including [The Doll Lab Group]( ht
 
 
 ## Funding
-This research was supported was the National Institute on Minority Health and Health Disparities), National Institutes of Health, under Award Number R01MD011680.   All content is solely the responsibility of the authors and do not necessarily represent the official views of the NIH .
+This research was supported was the National Institute on Minority Health and Health Disparities, National Institutes of Health, under Award Number R01MD011680.   All content is solely the responsibility of the authors and do not necessarily represent the official views of the NIH .
 The project described was supported by the National Center for Advancing Translational Sciences (NCATS), National Institutes of Health, through Grant Award Number UL1TR002489. The content is solely the responsibility of the authors and does not necessarily represent the official views of the NIH.
 
 ## Profile Contents
 
-### Datasets
-- Public use datasets
-- Limited access variable list
-- Codebooks and data dictionaries for project datasets
 
 ### Data documentation
 -	Data analysis workflow
 -	Abstraction methods
 -	Study plans and operations 
+-	Limited access variable list
+- Codebooks and data dictionaries for project datasets
+
 
 ### Repositories of Research Manuscripts
 - Code and relevant files for manuscripts using CHC data 
